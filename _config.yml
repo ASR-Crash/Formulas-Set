@@ -1,8 +1,1 @@
 theme: jekyll-theme-architect
-
-nav:
-- name: 理科 
-    link: mathematics.md
-- name: 工科
-    link: optics.md
-    link: communication.md

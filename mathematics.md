@@ -14,6 +14,7 @@ Malthus模型
 $$\frac{dx}{dt}+kx=0\\x(0)=x_0\\x(t)=x_0e^{kt}\\$$
 
 logistic模型
+
 $$
 \begin{align}
 \frac{dN}{dt}&=kN(K-N)\\

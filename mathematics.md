@@ -17,12 +17,6 @@ $$
 N(t)&=\frac{N_0K}{N_0+(K-N_0)e^{-kKt}}\\ \lim\limits_{t\rightarrow\infty} N(t)&=K\\
 \end{align}
 $$
-三级火箭模型
-
-$$
-v=u(1-\lambda)ln\frac{m_0}{m_p}
-$$
-
 
 差分方程模型
 

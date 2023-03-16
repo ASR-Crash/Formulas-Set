@@ -1,8 +1,13 @@
+---
+layout: page
+title: 数学
+---
+
+## 数学
+
 <script type="text/javascript"
 src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-
-## 数学
 
 ---
 

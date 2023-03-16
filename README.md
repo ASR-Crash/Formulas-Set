@@ -1,8 +1,11 @@
-# 理论公式集合
+---
+layout: page
+title: 理论公式集合
+---
 
 ---
 
-<FONT COLOR='GRAY'><em>理论指导实践</em></FONT>
+<em>理论指导实践</em>
 
 ---
 

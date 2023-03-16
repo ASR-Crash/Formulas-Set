@@ -1,10 +1,21 @@
 remote_theme: andrewbanchich/editorial-jekyll-theme
 
-logo: images/ASR-Round.png
-
 # Site settings
 title: 理论公式集合
-subtitle: 理论指导实践
+subtitle: Formulas-Set
+email: 1248681308@qq.com
+description: 理论指导实践
+baseurl: "/Formulas-Set"
+url: "https://asr-crash.github.io/Formulas-Set/"
+author: ASR-Crash
+street_address: 浙江大学
+city: 杭州
+state: 浙江
+country: 中国
+phone: (+86) 18965102163
+
+# Social settings
+github_url: https://github.com/ASR-Crash/Formulas-Set
 
 # Build settings
 markdown: kramdown

@@ -1,1 +1,13 @@
 remote_theme: andrewbanchich/stellar-jekyll-theme
+
+title: 理论公式集合
+description: >-
+  理论指导实践 <br /> Theory guides Practice
+logo: images/ASR-Round.png
+
+address: 浙江，杭州，浙江大学
+phone: (+86) 18965102163
+email: 1248681308@qq.com
+
+socials:
+  GitHub: "#"

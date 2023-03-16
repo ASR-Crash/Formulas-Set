@@ -15,12 +15,10 @@ $$\frac{dx}{dt}+kx=0\\x(0)=x_0\\x(t)=x_0e^{kt}\\$$
 
 logistic模型
 
-$$
-\begin{align}
+$$\begin{align}
 \frac{dN}{dt}&=kN(K-N)\\
 N(t)&=\frac{N_0K}{N_0+(K-N_0)e^{-kKt}}\\ \lim\limits_{t\rightarrow\infty} N(t)&=K\\
-\end{align}
-$$
+\end{align}$$
 
 差分方程模型
 

@@ -1,0 +1,71 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+
+      <!-- Search -->
+        <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section>
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>目录</h2>
+          </header>
+          <ul>
+            <li><a href="{{ '' | absolute_url }}">导航</a></li>
+            <li><a href="{{ 'mathematics.html' | absolute_url }}">数学</a></li>
+            <li><a href="{{ 'optics.html' | absolute_url }}">光学</a></li>
+            <li><a href="{{ 'communication.html' | absolute_url }}">通信</a></li>
+            <li>
+              <span class="opener">子目录</span>
+              <ul>
+                <li><a href="#">remain1</a></li>
+                <li><a href="#">remain2</a></li>
+                <li><a href="#">remain3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">敬请期待</a></li>
+          </ul>
+        </nav>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>专题</h2>
+          </header>
+          <div class="mini-posts">
+            <article>
+              <a href="#" class="image"><img src="images/ASR-Round.png" alt="" /></a>
+              <p>版块建设中...</p>
+            </article>
+          </div>
+          <ul class="actions">
+            <li><a href="#" class="button">更多内容</a></li>
+          </ul>
+        </section>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>联系</h2>
+          </header>
+          <p>版块建设中...</p>
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <li class="fa-phone">{{ site.phone }}</li>
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+          </ul>
+        </section>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; {{ site.title }}. All rights reserved.</p>
+        </footer>
+
+    </div>
+  </div>

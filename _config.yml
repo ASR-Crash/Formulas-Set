@@ -1,9 +1,8 @@
 theme: jekyll-theme-architect
 
-logo: ASR.ico
 nav:
-- title: 理科 
-    url: mathematics.md
-- title: 工科
-    url: optics.md
-    url: communication.md
+- name: 理科 
+    link: mathematics.md
+- name: 工科
+    link: optics.md
+    link: communication.md

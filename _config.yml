@@ -1,1 +1,11 @@
 theme: jekyll-theme-architect
+site_name: 理论公式集合
+site_favicon: ASR.ico
+nav:
+- 理科: 
+    - 数学: mathematics.md
+- 工科:
+    - 光学: optics.md
+    - 通信: communication.md
+
+copyright: Copyright© 2023 Crash, Alliance of Science Research. <img src='https://asr-crash.github.io/Crash-database/logo/ASR-WS.png' width='64'> |&nbsp; <img src='https://asr-crash.github.io/Crash-database/logo/Crash-WS.png' width='160'> 

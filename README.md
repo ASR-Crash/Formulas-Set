@@ -7,6 +7,8 @@
 ---
 
 - [数学](mathematics.md)
+- [光学](optics.md)
+- [通信](communication.md)
 
 ---
 
